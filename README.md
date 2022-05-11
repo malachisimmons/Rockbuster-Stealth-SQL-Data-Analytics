@@ -6,7 +6,7 @@ Rockbuster Steath is an imaginary movie company, looking to start an online-movi
 
 ## Dataset
 
-* You can find a link to the Rockbuster dataset and project breif [here.](https://images.careerfoundry.com/public/courses/data-immersion/A3/A3_Data_Project_Brief%20.pdf)
+* You can find a link to the Rockbuster dataset and project brief [here.](https://images.careerfoundry.com/public/courses/data-immersion/A3/A3_Data_Project_Brief%20.pdf)
 
 ## Key Questions
 
